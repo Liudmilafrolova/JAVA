@@ -36,13 +36,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5.Animal" />
+  <component name="RunManager" selected="Application.AddFile">
+    <configuration name="AddFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.AddFile" />
       <module name="ru.geekbrains.courses.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5.*" />
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DZ3_LF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.DZ3_LF" />
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.Animal" />
       <module name="ru.geekbrains.courses.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
+          <option name="PATTERN" value="Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.NewFile" />
+      <module name="ru.geekbrains.courses.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddFile" />
+        <item itemvalue="Application.NewFile" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.DZ4_LF" />
-        <item itemvalue="Application.DZ3_LF" />
       </list>
     </recent_temporary>
   </component>
@@ -110,22 +124,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1608314537409">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608713289413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608314537409" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1608314537409">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608713289413" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1608721073577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608314537409" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1608314537409">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608721073577" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1608721073576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608314537409" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1608314537409">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608721073576" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1608721073576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608314537409" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608721073576" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1608721073576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608721073576" />
     <state x="685" y="181" key="new project wizard" timestamp="1607523631538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
